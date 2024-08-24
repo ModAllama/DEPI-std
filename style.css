@@ -77,7 +77,7 @@ body {
 }
 
 .icons-container img{
-    height: 35px;
+    height: 34px;
     cursor: pointer;
     filter: brightness(0.8);
 
@@ -88,5 +88,5 @@ body {
 }
 
 .icons-container img:active{
-    filter: brightness(1.3);
+    filter: brightness(1.4);
 }
